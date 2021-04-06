@@ -1,10 +1,10 @@
 # youtube_redesign
 YouTube Redesign concept - учебный проект Glo - Academy.
-Проект выполнил: Alex Hardwell.
+/n Проект выполнил: Alex Hardwell.
 
 
 ## Исользуемые технологии:
--HTML
--CSS
--normalize.css
--SVG Sprites
+1) HTML
+2) CSS
+3) normalize.css
+4) SVG Sprites
