@@ -1,6 +1,6 @@
-# youtube_redesign
-YouTube Redesign concept - учебный проект Glo - Academy.
-/n Проект выполнил: Alex Hardwell.
+# YouTube concept - учебный проект Glo - Academy.
+
+ Проект выполнил: Alex Hardwell.
 
 
 ## Исользуемые технологии:
